@@ -1,8 +1,4 @@
 ## Hi there 👋
-      ／＼      ∩_∩
-     ／   ＼  ( ･ω･ )   Welcome to my GitHub!
-    ／      ＼/       ⌒ヽ
-  ／          ＼      ／⌒＞ 
 
 <!--
 **Wolfcrafter321/Wolfcrafter321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
